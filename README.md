@@ -6,6 +6,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Resume](#resume)
 
 
 # SQL
@@ -30,5 +31,9 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 |---|---|---|
 | 🚗 [Fatal Traffic Collision Dashboard](https://github.com/RobertoCortez07/traffic_collisions) | This project examines trends in traffic fatalities across the U.S. from 2015 to 2021 using data from the National Highway Traffic Safety Administration (NHTSA) | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
+***
 
+# Resume
+
+My resume can be viewed/downloaded [here](https://github.com/RobertoCortez07/Resume)
 ***
