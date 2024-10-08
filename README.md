@@ -14,7 +14,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 🛒 [Supermarket Transaction Analysis Case Study](https://github.com/RobertoCortez07/supermarket_project) | Data analysis | I answer business questions related to transaction data from a Polish supermarket, such as total and average revenue per week, total revenue per day, total amount of transactions, among others. |
-
+| 🏬 [Company Layoffs Data Cleaning and Exploratory Data Analysis](https://github.com/RobertoCortez07/world_layoffs_project) | Data Cleaning, EDA | I use data cleaning techniques to standardize data in this dataset then I perform exploratory data analysis to answer various questions such as amount of layoffs per year, per company, per region, among others. |
 ***
 
 # Python
@@ -37,3 +37,5 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 
 My resume can be viewed/downloaded [here](https://github.com/RobertoCortez07/Resume)
 ***
+
+
